@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: cursive;
+}
+
+p {
+    font-weight: bold;
+    font-size: large;
+}
+
+#gameEnv {
+    border-radius: 10px;
+}
